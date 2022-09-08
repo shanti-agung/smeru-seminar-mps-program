@@ -1,0 +1,74 @@
+---
+title: "Transformation Program"
+subtitle: "A Virtue and Character Strength Driven Approach to Quality Education"
+author:
+  - Shanti Agung
+  - Gede Raka
+date: "Presented at SMERU Research Institute on April 9, 2018"
+format:
+  revealjs:
+    slide-number: true
+    footer: <https://pendidikansejati.org>
+---
+
+![](images/enrollment_rate_2012.png)
+
+::: aside
+Source: World Development Indicator
+:::
+
+------------------------------------------------------------------------
+
+![](images/pisa_2012.png)
+
+::: aside
+Source: World Development Indicator
+:::
+
+## Low Learning Level in Developing Countries
+
+- Simply increasing school inputs has a limited impact on improving students' learning [^1]
+- Education in developing countries
+    -   Runs on distorted systems [^2]
+    -   Is a low accountability context [^3]
+
+[^1]: Glewwe et al., 2004; Glewwe et al., 2009; Banerjee et al, 2005; Borkum et al., 2013; Pradhan et al., 2014; Das et al. 2013; de Ree et al., 2017
+
+[^2]: Kremer and Holla, 2009
+
+[^3]: Mbiti, 2016
+
+## Low Learning Level in Developing Countries (cont')
+
+-   Recent efforts focus on processes
+    -   Increase accountability [^4]
+-   However, establishing an accountability system that works remains a challenge due to the complexity of unintended behavioral responses [^5]
+
+[^4]: de Lan, 2008; Banerjee et al., 2009; Muralidharan and Sundararaman, 2011; Duflo et al., 2012; Pradhan et al., 2014; Loyalka et al., 2016; Andrabi et al., 2017
+
+[^5]: Chen et al., 2001; Glewwe et al, 2008; Duflo et al., 2012
+
+## Beliefs, Behavioral Responses, and Schooling Outcomes
+
+- Beliefs elicit behavioral responses ^[Benabou, 2015; Benabou and Tirole, 2016] 
+
+- Studies on education in developing countries that examined the effect of beliefs on schooling outcomes concentrated on investigating students' and parents' beliefs ^[Nguyen, 2008; Jensen, 2010; Andrabi et al., 2017]
+
+## Beliefs, Behavioral Responses, and Schooling Outcomes (cont')
+
+- The possibility that teachers' beliefs influence their behavior is important to consider
+- Teacher effort is among the binding constraints in translating education spending to students' learning ^[Glewwe and Muralidharan, 2015]
+
+##
+::: {.r-fit-text .fragment .highlight-blue}
+Do teachers' beliefs\
+affect their accountability\
+and, thus, students' learning\
+in developing countries?  
+:::
+
+## Identity as Beliefs
+
+
+
+

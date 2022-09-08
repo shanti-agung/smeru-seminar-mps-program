@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj
+/renv/
+.Rprofile
+/smeruseminar_mps_files/
+smeruseminar_mps.html
