@@ -8,7 +8,7 @@ date: "Presented at SMERU Research Institute on April 9, 2018"
 format:
   revealjs:
     slide-number: true
-    footer: <https://pendidikansejati.org>
+    footer: "[Masyarakat Pendidikan Sejati](https://pendidikansejati.org)"
 ---
 
 ![](images/enrollment_rate_2012.png)
@@ -27,8 +27,8 @@ Source: World Development Indicator
 
 ## Low Learning Level in Developing Countries
 
-- Simply increasing school inputs has a limited impact on improving students' learning [^1]
-- Education in developing countries
+-   Simply increasing school inputs has a limited impact on improving students' learning [^1]
+-   Education in developing countries
     -   Runs on distorted systems [^2]
     -   Is a low accountability context [^3]
 
@@ -50,25 +50,235 @@ Source: World Development Indicator
 
 ## Beliefs, Behavioral Responses, and Schooling Outcomes
 
-- Beliefs elicit behavioral responses ^[Benabou, 2015; Benabou and Tirole, 2016] 
+-   Beliefs elicit behavioral responses [^6]
 
-- Studies on education in developing countries that examined the effect of beliefs on schooling outcomes concentrated on investigating students' and parents' beliefs ^[Nguyen, 2008; Jensen, 2010; Andrabi et al., 2017]
+-   Studies on education in developing countries that examined the effect of beliefs on schooling outcomes concentrated on investigating students' and parents' beliefs [^7]
+
+[^6]: Benabou, 2015; Benabou and Tirole, 2016
+
+[^7]: Nguyen, 2008; Jensen, 2010; Andrabi et al., 2017
 
 ## Beliefs, Behavioral Responses, and Schooling Outcomes (cont')
 
-- The possibility that teachers' beliefs influence their behavior is important to consider
-- Teacher effort is among the binding constraints in translating education spending to students' learning ^[Glewwe and Muralidharan, 2015]
+-   The possibility that teachers' beliefs influence their behavior is important to consider
+-   Teacher effort is among the binding constraints in translating education spending to students' learning [^8]
 
-##
-::: {.r-fit-text .fragment .highlight-blue}
-Do teachers' beliefs\
-affect their accountability\
-and, thus, students' learning\
-in developing countries?  
-:::
+[^8]: Glewwe and Muralidharan, 2015
+
+## Research Question
+
+> [Do teachers' beliefs affect their accountability and, thus, students' learning in developing countries?]{style="font-size:80px;"}
 
 ## Identity as Beliefs
 
+> An identity is a definition, an interpretation, of the self... People who have problems with identity are generally struggling with the difficult aspects of defining the self, such as establishing long term goals, major affiliations, and basic values [^9]
+
+[^9]: Baumeister, 1986 cf. Benabou and Tirole, 2011
+
+Identity influences behavior and can account for many problems not well explained by earlier economic approaches [^10]
+
+[^10]: Akelrof and Kranton, 2000; Akelrof and Kranton, 2002
+
+## Benabou and Tirole (2011)
+
+-   Model identity as beliefs and emphasize self-inference process
+-   Demand for beliefs
+    -   Affective benefits
+    -   Functional/ instrumental roles
+-   When identity serves a commitment purpose, the ability to shape beliefs through actions can increase well-being
+
+## Identity and Accountability
+
+-   As Benabou and Tirole (2011) pointed out, the self-inference process and identity investment imply that accountability has an internal element (i.e., accountability to oneself)
+
+-   Therefore, intervention in a teacher's identity could be a means of improving accountability
+
+    -   Masyarakat Pendidikan Sejati (MPS) runs "Transformation Program: A Virtue and Character Strength Driven Approach"
+
+## MPS Transformation Program
+
+> Transformation Program: A Virtue and Character Strength Driven Approach
+
+-   Yayasan Sasana Daya Cipta developed the program in partnership with Technology Research Center at Institut Teknologi Bandung
+
+-   Initiated in 1993 in Bandung, it aims to improve education in Indonesia, focusing on school principals and teachers
+
+## MPS Transformation Program (cont')
+
+-   In the 1990s, teachers were economically and socially marginalized
+
+-   Post-reformation in the 2000s, education spending was increasing, but little improvement
+
+-   MPS principle:
+
+> No quality education without quality teachers and school principals
+
+## Transformation Program in Sumba
+
+::: columns
+::: {.column width="50%"}
+![](images/map_indonesia.png){width="475" height="325"}
+:::
+
+::: {.column width="50%"}
+![](images/map_sumba.png){width="475" height="325"}
+:::
+:::
+
+## Transformation Program in Sumba {.smaller}
+
+In 2012, MPS initiated Transformation Program in East Sumba
+
+::: columns
+::: {.column width="60%"}
+**Why Sumba?**
+
+-   Human Development Index in 2010:
+    -   Nusa Tenggara Timur: ranked 31 of 33 provinces
+    -   Sumba Timur: the 10th percentile for *kabupaten*
+-   In Nusa Tenggara Timur, 23.3% of people lived in poverty
+    -   It ranked 29 of 33 provinces
+
+::: aside
+Source: Badan Pusat Statistik
+:::
+:::
+
+::: {.column width="40%"}
+![](images/sumba_rider.png)
+:::
+:::
+
+## Transformation Program in Sumba {.smaller}
+
+**Partnership:**
+
+-   Masyarakat Pendidikan Sejati (formerly Yayasan Sasana Daya Cipta)
+-   Universitas Kristen Wira Wacana (formerly STIE)
+-   Indonesian Overseas Alumni (IOA)
+
+::: columns
+::: {.column width="60%"}
+**Coverage:**
+
+-   Sekolah Dasar (SD)
+-   Approx. 87 Sekolah Dasar in East Sumba
+-   Approx. 1,100 teachers and school principals
+:::
+
+::: {.column width="40%"}
+![](images/sd_bidipraing.png)
+:::
+:::
+
+## Five Domains of Intervention
+
+The Transformation Program comprises five interconnected domains:
+
+![](images/mps_five_domains.png){.absolute left="200" width="632"}
+
+## Mindset
+
+Implemented as "Transformational Leadership for Educators" training, it invites reframing the mindset on success, humanity, life purpose, education and its goals, teaching, and students
+
+\
+
+> Teachers and school principals as leaders of transformation who sow and cultivate virtue
+
+## Aspiration
+
+> Aspiration is a strong desire for a better future, as in vision, goals, or strategic intent
+
+\
+Aspiration leads the transformation toward a better future
+
+-   A better person
+-   A better teacher or school pricipal
+-   A better school
+
+## Strategy
+
+> Strategy is guidelines of actions to achieve aspirations
+
+-   *"Berkembang Dihela Kekuatan"*
+    -   Strength driven development
+-   **3S**: *"Mulai dari **S**aya (diri sendiri), **S**ekarang, **S**ekecil apapun"*
+    -   Changes that begin with oneself
+    -   Take actions now
+    -   Actions for change are never too small to matter
+
+## Strategy (cont')
+
+-   **4M-3B**: *"**M**udah, **M**urah, **M**enggembirakan, **M**elibatkan -- **B**erguna, **B**ermakna, **B**erkelanjutan"*
+    -   Implement improvements that are easy to implement, low cost, enjoyable, and encourage community participation
+    -   Implement improvements that are useful, meaningful, and sustainable
+
+## Strategy (cont')
+
+-   **3N**: *"**N**iteni (mengamati), **N**iroke (meniru), **N**ambahi (menambah)"*
+    -   Advice from [Ki Hajar Dewantara](https://en.wikipedia.org/wiki/Ki_Hajar_Dewantara): observe, adopt, and modify
+-   **3 SA**: *"**S**ilih **A**sah (saling belajar), **S**ilih **A**sih (saling mempedulikan), **S**ilih **A**suh (saling mendukung)"*
+    -   Mutual learning, mutual caring, and mutual support
+
+## Systems
+
+> Systems are mechanisms and forums that promote the learning and innovation process, spirits of continued improvement and growing together, and sustainability
+
+## Knowledge and Skills
+
+> Teachers and school principals are encouraged to develop knowledge and skills to fulfill their roles as leaders and change (transformation) agents
+
+-   **Basic skills**: creativity for improving education quality
+
+-   **Specific skills**: skill based on specific teaching assignments or themes, such as science and mathematics
+
+## Diagram of Transformation Program
+
+![](images/diagram_mps_program.png)
+
+## Distinctive Features
+
+Features of MPS Transformation Program that make it distinct:
+
+- Improvement driven by virtue and character strengths
+- Transform useful achievements into meaningful achievements
+- Develop learning communities and learn as a community
+- A subject-to-subject relationship
 
 
+## Distinctive Features (cont')
+
+- Continued learning and improvement
+
+>*Tiada hari tanpa melakukan kebaikan, tiada hari tanpa perbaikan*
+
+- Emphasis on creating a supportive learning environment and learning process
+- Combine two complementary modes: inside-out and outside-in
+
+## Qualitative Groundwork
+
+- Visited six Sekolah Dasar in *Kabupaten* East Sumba, NTT province
+- Held small-group discussions in *Kabupaten* East Sumba
+  - Teachers and school principals
+  - Managerial board of Masyarakat Pendidikan Sejati and the faculty of University Kristen Wirawacana
+- Held interviews in *Kabupaten* East Sumba and Kabupaten Wonosobo, Dieng province
+  - Teachers, school principals, and inspectors
+
+## What Next: A Field Experiment
+
+- Context: Sumba
+- Potential implementation partners: Masyarakat Pendidikan Sejati and Universitas Kristen Wira Wacana
+- Design:
+  - Unit of randomization: school-level
+  - Unit of measurement: individual-level
+  - A phase-in design
+- Apply for funding
+
+# {background-color="#EAECE7"}
+
+[Thank You]{.r-fit-text}
+
+
+
+  
 
